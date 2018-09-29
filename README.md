@@ -3,5 +3,5 @@ Version Control
 Lab 4 CSCI 3308
 <<<<<<< HEAD
 =======
-Partner: PARTNER NAME
+Partner: Noah Lane
 >>>>>>> ID#
